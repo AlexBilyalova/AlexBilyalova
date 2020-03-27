@@ -1,0 +1,107 @@
+body {
+	margin: 0;
+	font-family: sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: #fff;
+	margin-right: 20px;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+.heading, .contact {
+	text-align: center;
+}
+
+.colums {
+	display: flex;
+	justify-content: center;
+	background: #009966;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	color: #fff;
+}
+
+.contact {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.list {
+	padding-left: 10px;
+}
+
+.about {
+	margin-right: 150px;
+}
+
+h1, h4 {
+	font-weight: 300;
+}
+
+.send {
+	width: 166px;
+	border: 1px solid #ff3654;
+	background: #ff3654;
+	color: #fff;
+	padding-left: 5px;
+}
+
+.input {
+	margin-bottom: 10px;
+}
+
+.nav {
+	background: #88D498;
+	padding: 30px;
+}
+
+.heading {
+	background: #009966;
+	padding-top: 150px;
+	padding-bottom: 150px;
+	color: #fff;
+}
+
+.heading h1 {
+	margin: 0;
+}
+
+.info {
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	text-align: left;
+}
+
+.order-btn {
+	border: 1px solid #fff;
+	padding: 10px 20px;
+	border-radius: 5px;
+}
+
+.models {
+	display: flex;
+	justify-content: space-between;
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+
+.model {
+	border: 1px solid #fff;
+-webkit-box-shadow: -5px -3px 33px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -5px -3px 33px 0px rgba(0,0,0,0.75);
+box-shadow: -5px -3px 33px 0px rgba(0,0,0,0.75);
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+.client-info {
+	border: 1px solid #fff;
+	border-radius: 3px;
+	padding: 5px;
+}
